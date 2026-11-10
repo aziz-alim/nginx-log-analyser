@@ -28,4 +28,4 @@ Betiğe çalıştırma yetkisi verdikten sonra log dosyasının yolunu parametre
 
 Bu proje ile Linux boru hattı (pipeline) mimarisi, gelişmiş metin filtreleme araçları (awk, sort, uniq, head) ve log analitiği pratikleri pekiştirilmiştir.
 
-[https://github.com/aziz-mevlana/nginx-log-analyser](https://roadmap.sh/projects/nginx-log-analyser)
+[https://github.com/aziz-alim/nginx-log-analyser](https://roadmap.sh/projects/nginx-log-analyser)
